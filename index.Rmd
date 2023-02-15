@@ -1,0 +1,23 @@
+---
+title: "index"
+author: "Jingzhi"
+date: "2023-02-15"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Jingzhi Zhang
+<br>
+Collaborator: Tongxin Wang
+<br>
+
+Link to my Github Page: https://github.com/jingzhi714
+
+
+![Here is my kitty!](./kitty.jpeg)
+
+
