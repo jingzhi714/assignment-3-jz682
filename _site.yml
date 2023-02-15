@@ -1,0 +1,9 @@
+output_dir: "."
+navbar:
+  left:
+    - text: "-Home-"
+      href: index.html
+    - text: "Jingzhi"
+      href: Jingzhi.html
+    - text: "Charlotte"
+      href: Charlotte.html  
