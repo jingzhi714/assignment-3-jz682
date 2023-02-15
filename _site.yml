@@ -7,7 +7,7 @@ navbar:
       href: Jingzhi.html
     - text: "Charlotte"
       href: Charlotte.html  
-     
+
 output:
   html_document:
     theme: cerulean
