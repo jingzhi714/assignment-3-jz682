@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Jingzhi Zhang
 <br>
-Collaborator: Tongxin Wang
+Collaborator: Tongxin Wang, Xingtan Yu
 <br>
 
 Link to my Github Page: https://github.com/jingzhi714
