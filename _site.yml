@@ -1,7 +1,11 @@
 output_dir: "."
 navbar:
   left:
+<<<<<<< HEAD
     - text: "-Home-"
+=======
+    - text: "Home"
+>>>>>>> db5a15558c04e1c9acc29f113b4356a69daa37a9
       href: index.html
     - text: "Jingzhi"
       href: Jingzhi.html
